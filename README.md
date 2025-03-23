@@ -20,6 +20,9 @@ This is the front-end application for the Hacker News feed, built using Angular.
 - Node.js (LTS) installed
 - Angular CLI installed (`npm install -g @angular/cli`)
 
+## Running Unit Tests
+ng test --no-watch --code-coverage
+
 ### Steps to Run the Project
 ```sh
 # Clone the repository
